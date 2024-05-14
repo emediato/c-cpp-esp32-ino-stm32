@@ -1,5 +1,9 @@
 # :) 
 
+
+CH340 DRIVER for MAC OS
+https://www.wch-ic.com/downloads/CH34XSER_MAC_ZIP.html
+
 ## Useful
 
 https://www.youtube.com/@PhilsLab
