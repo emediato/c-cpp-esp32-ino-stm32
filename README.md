@@ -3,6 +3,14 @@
 ## stm32
 
 https://www.st.com/en/development-tools/stm32cubemx.html
+https://www.st.com/en/development-tools/stm32cubemx.html#get-software
+http://stackoverflow.com/questions/8632586/macos-whats-the-difference-between-dev-tty-and-dev-cu
+
+For terminal apps on Mac, visit to these links.
+http://pbxbook.com/other/mac-tty.html
+
+http://pbxbook.com/other/mac-ser.html
+
 
 
 ## CH340 DRIVER for MAC OS
