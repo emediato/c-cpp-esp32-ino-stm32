@@ -1,8 +1,16 @@
 # :) 
 
+## stm32
 
-CH340 DRIVER for MAC OS
+https://www.st.com/en/development-tools/stm32cubemx.html
+
+
+## CH340 DRIVER for MAC OS
 https://www.wch-ic.com/downloads/CH34XSER_MAC_ZIP.html
+
+https://github.com/LilyGO/LILYGO-T-OI/issues/3#issuecomment-907645945
+
+
 
 ## Useful
 
